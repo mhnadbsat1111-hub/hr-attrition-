@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1
+MLP (100 hidden units),0.9691,0.9175,0.8945,0.9059
+Logistic Regression,0.8341,0.5,0.1826,0.2675
+Random Forest,0.9855,0.9875,0.9246,0.955
